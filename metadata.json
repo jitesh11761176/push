@@ -1,0 +1,5 @@
+{
+  "name": "Zenith Pomodoro Timer",
+  "description": "A minimalist and aesthetically pleasing Pomodoro timer to help you focus. Features customizable work, short break, and long break intervals, a sleek circular progress indicator, and a clean, modern interface.",
+  "requestFramePermissions": []
+}
